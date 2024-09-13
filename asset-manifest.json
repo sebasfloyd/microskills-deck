@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/microskills-deck/static/css/main.26144aa8.css",
+    "main.js": "/microskills-deck/static/js/main.c06f647d.js",
+    "static/js/453.68693753.chunk.js": "/microskills-deck/static/js/453.68693753.chunk.js",
+    "index.html": "/microskills-deck/index.html",
+    "main.26144aa8.css.map": "/microskills-deck/static/css/main.26144aa8.css.map",
+    "main.c06f647d.js.map": "/microskills-deck/static/js/main.c06f647d.js.map",
+    "453.68693753.chunk.js.map": "/microskills-deck/static/js/453.68693753.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26144aa8.css",
+    "static/js/main.c06f647d.js"
+  ]
+}
